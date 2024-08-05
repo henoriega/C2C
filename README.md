@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/henoriega/C2C/blob/main/logo.png" width="700" height="400">
+    <img src="https://github.com/henoriega/C2C/blob/main/logo.png" width="700" height="300">
 </p>
 
 # C2C
